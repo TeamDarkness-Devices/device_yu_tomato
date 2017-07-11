@@ -1,0 +1,17 @@
+[ 
+  { 
+    "repository": "TeamDarkness-Devices/device_cyanogen_msm8916-common", 
+    "target_path": "device/cyanogen/msm8916-common", 
+    "branch": "n7x"  
+  }, 
+  { 
+    "repository": "TeamDarkness-Devices/kernel_cyanogen_msm8916", 
+    "target_path": "kernel/cyanogen/msm8916", 
+     "branch": "n7x"  
+  } 
+  { 
+    "repository": "TeamDarkness-Devices/proprietary_vendor_yu", 
+    "target_path": "vendor/yu", 
+     "branch": "n7x" 
+  } 
+] 
