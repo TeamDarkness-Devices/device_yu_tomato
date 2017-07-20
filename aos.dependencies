@@ -1,0 +1,27 @@
+[ 
+  { 
+    "repository": "TeamDarkness-Devices/device_cyanogen_msm8916-common", 
+    "target_path": "device/cyanogen/msm8916-common", 
+    "branch": "n7x"  
+  }, 
+  { 
+    "repository": "TeamDarkness-Devices/kernel_cyanogen_msm8916", 
+    "target_path": "kernel/cyanogen/msm8916", 
+     "branch": "n7x"  
+  }, 
+  { 
+    "repository": "TeamDarkness-Devices/proprietary_vendor_yu", 
+    "target_path": "vendor/yu", 
+     "branch": "n7x" 
+  },
+  { 
+    "repository":  "ThankYouMario/proprietary_vendor_qcom_sdclang-3.8_linux-x86",
+    "target_path": "prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_3.8/prebuilt/linux-x86_64",
+    "branch":      "nougat-mr1"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  }
+] 
