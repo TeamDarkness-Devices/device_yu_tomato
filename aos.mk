@@ -15,6 +15,9 @@
 
 $(call inherit-product, device/yu/tomato/full_tomato.mk)
 
+# Magisk
+WITH_ROOT=true
+
 # Inherit some common Atomic-OS stuff.
 $(call inherit-product, vendor/aos/config/common_full_phone.mk)
 
